@@ -1,5 +1,8 @@
 KPI requirements
+  use [Pizza DB] 
+go
 select * from pizza_sales
+
 
 select sum (total_price)
 
